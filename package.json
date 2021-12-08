@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
+    "url": "git+https://github.com/creativetimofficial/material-dashboard-material-ui-v4.git"
   },
   "keywords": [],
   "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
+    "url": "https://github.com/creativetimofficial/material-dashboard-material-ui-v4/issues"
   },
-  "homepage": "https://creativetimofficial.github.io/material-dashboard-react/#/dashboard",
+  "homepage": "https://demos.creative-tim.com/material-dashboard-material-ui-v4/#/dashboard",
   "optionalDependencies": {
     "@babel/core": "7.14.0",
     "typescript": "4.2.4"
